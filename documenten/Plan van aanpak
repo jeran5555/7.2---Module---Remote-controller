@@ -15,7 +15,7 @@ Scrollen
 
 4. Stappen
 HTML-pagina maken met touch-input (JavaScript)
-Data versturen naar PHP (bijv. via AJAX/fetch)
+Data versturen naar PHP 
 PHP script laten communiceren met de computer (bijv. via een lokaal script of API)
 Basisfuncties testen en verbeteren
 
