@@ -1,0 +1,23 @@
+1. Voorbereiding
+
+Project opzetten en WebSocket library installeren.
+
+2. Server
+
+WebSocket server maken en verbinding laten werken.
+
+3. Display
+
+Pagina maken waarop het balletje zichtbaar is en kan bewegen.
+
+4. Controller
+
+Input (knoppen/touch) maken en versturen naar de server.
+
+5. Koppeling
+
+Input verwerken op de server en positie updaten op het scherm.
+
+6. Testen & Afronden
+
+Alles testen, bugs oplossen en project afronden
